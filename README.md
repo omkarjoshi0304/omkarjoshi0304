@@ -1,12 +1,4 @@
-## Hi there 👋 I am Omkar
-
-<!--
-**omkarjoshi0304/omkarjoshi0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hi there, I'm **Omkar Joshi** 
+# 👋 Hi there, I'm **Omkar Joshi** 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+%40+Red+Hat;Master's+in+Electronics+%26+Computer+Engineering;AI+%26+Machine+Learning+Enthusiast;Building+LightSpeed+AI+Assistant;Always+Learning+New+Technologies!" alt="Typing SVG" />
@@ -179,10 +171,3 @@ I'm a **Master's student in Electronics and Computer Engineering** at Dublin Cit
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
