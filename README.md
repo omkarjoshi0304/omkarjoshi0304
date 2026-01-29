@@ -8,10 +8,10 @@
 
 ## 🚀 **About Me**
 
-I'm a **Master's student in Electronics and Computer Engineering** at Dublin City University and currently a **Software Engineering Intern at Red Hat**. I specialize in building AI-powered solutions, developing scalable systems, and contributing to cutting-edge projects like **LightSpeed AI Assistant** built on the Llama Stack.
+I'm a **Master's student in Electronics and Computer Engineering** at Dublin City University and currently a **Assocaite Software Engineering at Red Hat**. I specialize in building AI-powered solutions, developing scalable systems, and contributing to cutting-edge projects like **LightSpeed AI Assistant** built on the Llama Stack.
 
 - 🔭 Currently working on **LightSpeed AI Assistant** with RAG pipelines and vector databases at **Red Hat**
-- 🎓 Pursuing **Master's in ECE** at Dublin City University (2024-2025)
+- 🎓 **Master's in ECE** at Dublin City University (2024-2025)
 - 🌱 Learning advanced **AI/ML**, **Cloud-Native Technologies**, and **Agentic AI**
 - 👯 Looking to collaborate on **Open Source AI/ML** projects and **Cloud Infrastructure**
 - 💬 Ask me about **Python, AI/ML, DevOps, Cloud Computing, or Software Engineering**
@@ -66,7 +66,7 @@ I'm a **Master's student in Electronics and Computer Engineering** at Dublin Cit
 
 ## 💼 **Current Role**
 
-### 🔴 **Software Engineering Intern @ Red Hat** *(June 2025 - Present)*
+### 🔴 **Associate Software Engineering @ Red Hat** *(June 2025 - Present)*
 - Contributing to **LightSpeed AI Assistant** built on the **Llama Stack**
 - Developing scalable **RAG pipelines** and integrating **vector databases**
 - Implementing **agentic AI capabilities** with human-in-the-loop control
