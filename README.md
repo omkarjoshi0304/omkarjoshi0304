@@ -8,7 +8,7 @@
 
 ## 🚀 **About Me**
 
-I'm a **Master's student in Electronics and Computer Engineering** at Dublin City University and currently a **Assocaite Software Engineering at Red Hat**. I specialize in building AI-powered solutions, developing scalable systems, and contributing to cutting-edge projects like **LightSpeed AI Assistant** built on the Llama Stack.
+I'm a **Master's Graduate in Electronics and Computer Engineering** at Dublin City University and currently a **Assocaite Software Engineering at Red Hat**. I specialize in building AI-powered solutions, developing scalable systems, and contributing to cutting-edge projects like **LightSpeed AI Assistant** built on the Llama Stack.
 
 - 🔭 Currently working on **LightSpeed AI Assistant** with RAG pipelines and vector databases at **Red Hat**
 - 🎓 **Master's in ECE** at Dublin City University (2024-2025)
