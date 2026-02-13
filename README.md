@@ -64,18 +64,6 @@ I actively contribute to Red Hat's open-source AI projects across two GitHub org
 
 ---
 
-### GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarjoshi0304&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjoshi0304&layout=compact&langs_count=8&hide_border=true&bg_color=00000000)
-
-</div>
-
----
-
 ### Education
 
 🎓 **MEng, Electronic & Computer Engineering** — Dublin City University, Ireland *(2024–2025)*
