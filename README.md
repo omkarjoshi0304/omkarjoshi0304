@@ -16,7 +16,7 @@ Building AI-powered infrastructure for Red Hat OpenStack — from RAG pipelines 
 
 ### About
 
-I'm an MEng graduate in Electronic & Computer Engineering from Dublin City University, now working on the **OpenStack AI Enablement Team at Red Hat**. I help build **OpenStack Lightspeed** — an AI-driven assistant that helps administrators manage Red Hat OpenStack on OpenShift (RHOSO) using natural language.
+I'm an MEng graduate in Electronic & Computer Engineering from Dublin City University, now working on the **OpenStack Lightspeed Team at Red Hat**. I help build **OpenStack Lightspeed** — an AI-driven assistant that helps administrators manage Red Hat OpenStack on OpenShift (RHOSO) using natural language.
 
 My day-to-day work sits at the intersection of **LLMs, cloud infrastructure, and developer tooling** — integrating vector databases, building RAG pipelines, wiring up MCP (Model Context Protocol) servers, and instrumenting everything with Prometheus & Grafana.
 
